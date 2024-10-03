@@ -2,7 +2,9 @@
 title: "live_bio515"
 author: "Hugo Boström"
 date: "2024-10-03"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
